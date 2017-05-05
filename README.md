@@ -1,5 +1,7 @@
 # Plain HTML Framework
 
+![Plain HTML Framework (ScreenGrab)](http://www.arielruff.com/git/plain_html_framework/PHF_image.jpg)
+
 ## About
 This is a HTML framework made for rapid deployment of a blank website...<br>
 **Included are:** 
