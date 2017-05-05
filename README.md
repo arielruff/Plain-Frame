@@ -1,7 +1,7 @@
 # Plain HTML Framework
 
 ## About
-This is a HTTP framework made for rapid deployment of a blank website...<br>
+This is a HTML framework made for rapid deployment of a blank website...<br>
 **Included are:** 
 * A basic website folder structure
 * A pre-linked css file
